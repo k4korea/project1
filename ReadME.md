@@ -36,13 +36,6 @@ https://jojoldu.tistory.com/139
 git docker hub 연동
 
 
-    jenkins ( github 연동 발급)
-    -----
-
-
-    jenkins-token ( github 연동 발급)
-    a47b05acdc44aa8feb1444b8475e99ec0a54fa2f
-
 
     [터널링 github]
     https://jojoldu.tistory.com/139
