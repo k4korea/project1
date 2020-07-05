@@ -118,20 +118,7 @@ jenkinsfile
     https://hooks.slack.com/services/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
 
 
-    삼메 slack
-    sm-cloud.slack.com
-    채널
-    #test-deploy
-    curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
-
-    2번째
-    팀 하위 도메인: sm-cloud
-    통합 토큰 자격 증명 ID: 값으로 사용하여 비밀 텍스트 자격 증명 만들기
-    li8Rq0U1DwEYGYnUpbYuiYef
-    li8Rq0U1DwEYGYnUpbYuiYef
-    참고사이트
-    https://api.slack.com/apps/A016HN79J9K/incoming-webhooks?
-
+  
     jenkin plugin
     https://plugins.jenkins.io/
 
