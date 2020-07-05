@@ -1,4 +1,11 @@
 
+
+git remote add origin https://github.com/k4korea/project1-.git
+git commit -m "first commit"
+git push -u origin master
+
+
+
 git java
 https://jojoldu.tistory.com/139
 
