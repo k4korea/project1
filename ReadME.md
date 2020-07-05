@@ -1,6 +1,15 @@
 
+ $ git add .
 
-git remote add origin https://github.com/k4korea/project1-.git
+ $ git commit -m update
+ [master b87a651] update
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+ $ git push
+
+
+git remote add origin https://github.com/k4korea/project1.git
+git add .
 git commit -m "first commit"
 git push -u origin master
 
